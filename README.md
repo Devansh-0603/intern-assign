@@ -2,7 +2,7 @@
 //   a) Read test and label files
 import python libaraies ..
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt...
 
 test_data = pd.read_csv('test.csv')
 label_data = pd.read_csv('test_label.csv')
